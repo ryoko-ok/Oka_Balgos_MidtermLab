@@ -1,3 +1,5 @@
+![Good or Bad Chocolate](images/download.jpeg "Good or Bad Chocolate")
+
 # Chocolate is Good or Bad for the Human Body?
 
 ## This is to explain the benefit of the chocolate to the human body.
